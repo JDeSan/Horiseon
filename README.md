@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 Link: 
 
